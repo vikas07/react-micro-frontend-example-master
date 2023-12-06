@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/vikas07/react-micro-frontend-example.svg?branch=master)](https://travis-ci.org/vikas07/react-micro-frontend-example)
 
-How to transform a React application into a Micro Frontend architecture. [Learn more about it here](https://www.robinwieruch.de/react-micro-frontend). Builds up on top of: [Advanced React with Webpack setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup).
+How to transform a React application into a Micro Frontend architecture. [Learn more about it here](https://www.robinwieruch.de/react-micro-frontend). Builds up on top of: [Advanced React with Webpack setup](https://github.com/vikas07/advanced-react-webpack-babel-setup-master).
 
 ## Installation
 
